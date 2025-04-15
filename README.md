@@ -22,8 +22,7 @@ This is my first project exploring OpenCV, Mediapipe, and real-time video proces
    cd focus-ai
 
 
-   ## 🚧 To-Do
-
+🚧 To-Do
 - [ ] Improve accuracy of eye gaze detection
 - [ ] Add alert sound when the user looks away
 - [ ] Implement screenshot saving when cheating is detected
