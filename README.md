@@ -14,13 +14,22 @@ This is my first project exploring OpenCV, Mediapipe, and real-time video proces
 
 ---
 
-## 🛠️ Setup Instructions
+ 🛠️ Setup Instructions
+Follow these steps to set up and run the project locally:
 
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/addyras/focus-ai.git
-   cd focus-ai
+Clone the Repository
+git clone https://github.com/yourusername/anti-cheating-tool.git
+cd anti-cheating-tool
 
+Create and Activate a Virtual Environment
+python -m venv venv
+.\venv\Scripts\activate      # On Windows
+
+Install Dependencies
+pip install -r requirements.txt
+
+Run the Tool
+python main.py
 
 🚧 To-Do
 - [ ] Improve accuracy of eye gaze detection
