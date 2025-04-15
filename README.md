@@ -10,7 +10,6 @@ This is my first project exploring OpenCV, Mediapipe, and real-time video proces
 - 🔍 Face detection using OpenCV or Mediapipe
 - 👀 Eye gaze tracking to detect off-screen behavior
 - ⚠️ Warning alerts when user looks away
-- 📸 Option to capture screenshots on suspicious activity
 - 🧠 Easily extendable for more features (multi-face detection, phone detection, logging, etc.)
 
 ---
