@@ -1,3 +1,4 @@
+# This file tells Git which files/folders to ignore in version control
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
